@@ -10,7 +10,7 @@
     "@mapbox/tilebelt": "^1.0.1",
     "mapshaper": "^0.4.140",
     "shapefile": "^0.6.6",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
